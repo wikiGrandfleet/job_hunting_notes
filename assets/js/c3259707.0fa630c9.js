@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[148],{1328:s=>{s.exports=JSON.parse('{"label":"orbis","permalink":"/blog/tags/orbis","allTagsPath":"/blog/tags","count":1}')}}]);
