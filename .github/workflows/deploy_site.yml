@@ -40,6 +40,9 @@ jobs:
       - name: update config
         run: |
           yarn build
+
+      - name: nojerkyll
+        run: echo > .nojekyll
       
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
