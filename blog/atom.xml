@@ -12,8 +12,18 @@
         <id>first-blog-post</id>
         <link href="https://your-docusaurus-test-site.com/job_hunting_notes/blog/first-blog-post"/>
         <updated>2022-08-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Asked a variety of leetcode, blanked off for a bit had a lousy solution could have done it better. LINQ implementation didnt use it.]]></summary>
-        <content type="html"><![CDATA[<p>Asked a variety of leetcode, blanked off for a bit had a lousy solution could have done it better. LINQ implementation didnt use it.</p><p>Could have used a for loop, but whatever it is what it is.</p><p>As for interview results, think I wont get a take home test, or they are trying to figure out my role, love stonk investing.</p><p>One downside is hybrid work and having to go to the office and having to disclose my trades</p>]]></content>
+        <summary type="html"><![CDATA[General:]]></summary>
+        <content type="html"><![CDATA[<p>General:
+Talk about a project you did.
+Trivia:
+What is the difference between C++ and C#?
+What is the difference between an abstract class and interface?
+Leetcode:</p><p>Determine is a string is a palidrome.
+Determine is two strings are isomorphic.
+Coding:
+Determine what a function and identify errors (this was an erroneous implementation of mergesort)
+What is a good example of interactive technology that you like? What makes it good? How is it different from its competitors? If you could change one thing about it, what would it be? Why do you think the company chose to do it this way and not another?
+There is a ladder and you can either step on every step or take two steps at a time. How many ways are there to climb a ladder with n steps.</p><p>Asked a variety of leetcode, blanked off for a bit had a lousy solution could have done it better. LINQ implementation didnt use it.</p><p>Could have used a for loop, but whatever it is what it is.</p><p>As for interview results, think I wont get a take home test, or they are trying to figure out my role, love stonk investing.</p><p>One downside is hybrid work and having to go to the office and having to disclose my trades</p>]]></content>
         <author>
             <name>David Li</name>
             <uri>https://github.com/wgao19</uri>
